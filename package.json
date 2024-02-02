@@ -1,0 +1,21 @@
+{
+  "name": "spark-participants",
+  "version": "0.0.0",
+  "private": true,
+  "license": "(Apache-2.0 AND MIT)",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "dependencies": {
+    "@ipld/car": "^5.2.6",
+    "@web3-storage/car-block-validator": "^1.2.0",
+    "ethers": "^6.10.0",
+    "ipfs-unixfs-exporter": "^13.4.0",
+    "on-contract-event": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
