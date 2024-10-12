@@ -9,7 +9,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "@glif/filecoin-address": "^3.0.0",
+    "@glif/filecoin-address": "^3.0.12",
     "@ipld/car": "^5.2.6",
     "@web3-storage/car-block-validator": "^1.2.0",
     "ethers": "^6.10.0",
